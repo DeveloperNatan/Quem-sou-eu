@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Natanprogrammer.
-- 👀 I’m interested in JavaScript.
-- 🌱 I’m currently learning CRUD e MySQL.
+- 👀 I’m interested in JavaScript e Typescript.
+- 🌱 I’m currently learning CRUD, Node, MYSQL, MongoDB e Consumo de API.
 - 📫 How to reach me, natandesouza403@gmail.com
 
 <!---
